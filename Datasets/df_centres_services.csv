@@ -1,0 +1,56 @@
+,centre_id,type_centre,region,prefecture,commune,quartier,personnel_capacite_jour,nombre_guichets,horaire_nuit,equipement_numerique,date_ouverture,total_heures,anciennete_annees
+0,CT001,Principal,Savanes,Tône,Dapaong,Administratif,300,12,Non,Complet,2016-02-14,10.0,9.9
+1,CT002,Secondaire,Maritime,Ave,Kévé,Zone industrielle,63,2,Non,Limite,2020-09-14,8.0,5.3
+2,CT003,Secondaire,Savanes,Oti-Sud,Gando,Zone industrielle,98,2,Non,Partiel,2015-06-02,8.0,10.6
+3,CT004,Secondaire,Kara,Binah,Pagouda,Gare routière,78,6,Non,Partiel,2019-12-03,8.0,6.1
+4,CT005,Secondaire,Centrale,Tchamba,Tchamba,Carrefour,62,3,Non,Limite,2022-10-20,8.0,3.3
+5,CT006,Principal,Maritime,Zio,Tsévié,Marché,338,8,Non,Complet,2022-08-28,10.0,3.4
+6,CT007,Secondaire,Kara,Bassar,Bassar,Poste,59,6,Non,Partiel,2020-02-11,8.0,5.9
+7,CT008,Principal,Plateaux,Kloto,Kpalimé,Préfecture,355,11,Non,Complet,2017-07-12,10.0,8.5
+8,CT009,Secondaire,Centrale,Tchamba,Tchamba,Résidentiel,61,2,Non,Limite,2022-05-11,8.0,3.7
+9,CT010,Principal,Kara,Kozah,Kara,Préfecture,274,13,Non,Complet,2023-11-24,10.0,2.2
+10,CT011,Secondaire,Kara,Binah,Pagouda,Préfecture,82,6,Non,Partiel,2017-11-30,8.0,8.1
+11,CT012,Secondaire,Centrale,Sotouboua,Sotouboua,Résidentiel,54,5,Non,Partiel,2022-07-15,8.0,3.5
+12,CT013,Secondaire,Centrale,Tchamba,Tchamba,Centre ville,114,2,Non,Limite,2016-10-19,8.0,9.3
+13,CT014,Secondaire,Plateaux,Moyen-Mono,Tohoun,Administratif,63,2,Non,Partiel,2015-01-10,8.0,11.0
+14,CT015,Secondaire,Plateaux,Danyi,Danyi-Apéyémé,Carrefour,74,2,Non,Partiel,2017-06-14,8.0,8.6
+15,CT016,Secondaire,Maritime,Golfe,Lomé,Administratif,106,2,Non,Partiel,2023-07-08,8.0,2.5
+16,CT017,Secondaire,Savanes,Tandjouaré,Tandjouaré,Administratif,114,3,Non,Limite,2023-06-10,8.0,2.6
+17,CT018,Secondaire,Kara,Assoli,Bafilo,Centre ville,37,3,Non,Limite,2015-07-25,8.0,10.5
+18,CT019,Secondaire,Maritime,Lacs,Aného,Carrefour,101,6,Non,Partiel,2023-07-09,8.0,2.5
+19,CT020,Secondaire,Maritime,Vo,Vogan,Administratif,32,2,Non,Partiel,2019-09-03,8.0,6.4
+20,CT021,Secondaire,Centrale,Mo,Djarkpanga,Carrefour,118,2,Non,Limite,2019-06-28,8.0,6.6
+21,CT022,Principal,Centrale,Tchaoudjo,Sokodé,Centre ville,273,10,Oui,Complet,2015-04-04,10.0,10.8
+22,CT023,Secondaire,Maritime,Lacs,Aného,Hôpital,35,5,Non,Limite,2018-12-25,8.0,7.1
+23,CT024,Secondaire,Maritime,Lacs,Aného,Centre ville,88,6,Non,Partiel,2020-08-10,8.0,5.4
+24,CT025,Secondaire,Centrale,Tchamba,Tchamba,Poste,80,3,Non,Partiel,2016-03-06,8.0,9.9
+25,CT026,Principal,Centrale,Tchaoudjo,Sokodé,Résidentiel,345,11,Non,Complet,2020-10-16,10.0,5.3
+26,CT027,Secondaire,Savanes,Kpendjal-Ouest,Naki-Est,Poste,88,4,Non,Partiel,2019-12-15,8.0,6.1
+27,CT028,Secondaire,Centrale,Blitta,Blitta-Gare,Hôpital,39,3,Non,Partiel,2021-07-05,8.0,4.5
+28,CT029,Principal,Centrale,Tchaoudjo,Sokodé,Zone industrielle,358,13,Non,Complet,2023-07-15,10.0,2.5
+29,CT030,Secondaire,Savanes,Tandjouaré,Tandjouaré,Gare routière,45,4,Non,Partiel,2016-02-23,8.0,9.9
+30,CT031,Secondaire,Maritime,Vo,Vogan,Centre ville,64,6,Non,Limite,2017-07-27,8.0,8.5
+31,CT032,Secondaire,Savanes,Tône,Dapaong,Gare routière,59,3,Non,Partiel,2016-03-21,8.0,9.8
+32,CT033,Secondaire,Maritime,Yoto,Tabligbo,Préfecture,115,6,Non,Partiel,2022-10-26,8.0,3.2
+33,CT034,Secondaire,Centrale,Mo,Djarkpanga,Résidentiel,111,5,Non,Limite,2022-05-01,8.0,3.7
+34,CT035,Principal,Plateaux,Kloto,Kpalimé,Carrefour,229,8,Oui,Complet,2021-09-27,10.0,4.3
+35,CT036,Principal,Maritime,Zio,Tsévié,Résidentiel,206,8,Oui,Complet,2016-11-14,10.0,9.2
+36,CT037,Principal,Maritime,Golfe,Lomé,Poste,324,14,Non,Complet,2023-11-20,10.0,2.2
+37,CT038,Secondaire,Kara,Dankpen,Guérin-Kouka,Centre ville,81,6,Non,Partiel,2023-04-24,8.0,2.7
+38,CT039,Secondaire,Maritime,Golfe,Lomé,Carrefour,110,4,Non,Limite,2018-12-06,8.0,7.1
+39,CT040,Secondaire,Centrale,Tchaoudjo,Sokodé,Résidentiel,118,2,Non,Partiel,2020-03-04,8.0,5.9
+40,CT041,Secondaire,Maritime,Ave,Kévé,Administratif,113,3,Non,Partiel,2022-08-24,8.0,3.4
+41,CT042,Principal,Kara,Kozah,Kara,Centre ville,294,14,Non,Complet,2020-08-10,10.0,5.4
+42,CT043,Secondaire,Kara,Doufelgou,Niamtougou,Marché,41,2,Non,Partiel,2023-12-21,8.0,2.1
+43,CT044,Secondaire,Plateaux,Amou,Amlamé,Gare routière,54,2,Non,Partiel,2020-12-26,8.0,5.1
+44,CT045,Secondaire,Maritime,Lacs,Aného,Zone industrielle,100,2,Non,Limite,2017-01-21,8.0,9.0
+45,CT046,Secondaire,Centrale,Mo,Djarkpanga,Hôpital,87,3,Non,Partiel,2015-05-22,8.0,10.7
+46,CT047,Secondaire,Kara,Kéran,Kanté,Carrefour,74,4,Non,Partiel,2023-04-10,8.0,2.8
+47,CT048,Secondaire,Maritime,Ave,Kévé,Marché,87,6,Non,Partiel,2015-10-26,8.0,10.2
+48,CT049,Secondaire,Kara,Dankpen,Guérin-Kouka,Carrefour,77,5,Non,Partiel,2018-09-28,8.0,7.3
+49,CT050,Secondaire,Savanes,Kpendjal,Mandouri,Marché,82,5,Non,Partiel,2015-05-22,8.0,10.7
+50,CT051,Secondaire,Centrale,Sotouboua,Sotouboua,Résidentiel,109,2,Non,Partiel,2022-05-29,8.0,3.6
+51,CT052,Secondaire,Savanes,Kpendjal-Ouest,Naki-Est,Poste,106,5,Non,Partiel,2016-03-12,8.0,9.9
+52,CT053,Secondaire,Centrale,Tchamba,Tchamba,Résidentiel,45,5,Non,Partiel,2023-12-05,8.0,2.1
+53,CT054,Principal,Centrale,Tchaoudjo,Sokodé,Poste,248,12,Non,Complet,2020-12-15,10.0,5.1
+54,CT055,Secondaire,Plateaux,Haho,Notsé,Gare routière,85,2,Non,Partiel,2020-07-25,8.0,5.5
