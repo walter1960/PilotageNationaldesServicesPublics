@@ -8,7 +8,7 @@ st.title("Pilotage National des Services Publics")
 # Chargement de ma dataset finale netoyee : togo_dataset_final_propre.csv
 @st.cache_data
 def load_data():
-    df = pd.read_csv('datasets/togo_dataset_final_propre.csv')
+    df = pd.read_csv('../dataset_final/togo_dataset_final_propre.csv')
     df['date_demande'] = pd.to_datetime(df['date_demande'])
     return df
 
